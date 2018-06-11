@@ -6,7 +6,7 @@ Las insignias de ajolote son insoportablemente lindas. Creadas especialmente par
 
 Una vez que el kit de insignia está soldado y la batería insertada, el LED de la insignia parpadea y cambia de color durante aproximadamente 24 horas. Puedes usarlo como un pin en tu ropa, un collar, de llavero o en una pulsera
 Se requieren habilidades de soldadura muy básicas.
-Además como nosotros también amamos a los ajolote, nos hemos unido a la [Asociación Civil “Redes y Restauración Ecologica”] (http://www.redesmx.org/) para que un porcentaje de las ganancias de este kit sean utilizados para la conservación del ajolote y su hábitat natural.
+Además como nosotros también amamos a los ajolote, nos hemos unido a la [Asociación Civil “Redes y Restauración Ecologica”](http://www.redesmx.org/) para que un porcentaje de las ganancias de este kit sean utilizados para la conservación del ajolote y su hábitat natural.
 
 ## Licence
 
