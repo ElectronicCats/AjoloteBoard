@@ -6,11 +6,11 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "AjoloteBoard"
-Date "2018-05-31"
-Rev "0.1"
+Date "2019-10-15"
+Rev "0.3"
 Comp "Electronic Cats"
 Comment1 "Andres Sabas"
-Comment2 ""
+Comment2 "Eduardo Contreras"
 Comment3 ""
 Comment4 ""
 $EndDescr
