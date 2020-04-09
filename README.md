@@ -2,6 +2,10 @@ View this project on [CADLAB.io](https://cadlab.io/project/1720).
 
 # Ajolote Board Kit
 
+<a href="https://electroniccats.com/store/pre-order-ajolote-board-kit/">
+  <img src="https://electroniccats.com/wp-content/uploads/badge_store.png" height="104" />
+</a>
+
 Las insignias de ajolote son insoportablemente lindas. Creadas especialmente para enseñar a cualquier persona a soldar su primer tarjeta electrónica; es un kit de soldadura muy básico y adecuado para todas las edades.
 
 ¡Este kit de Ajolote tiene dos LED de colores con patrones de luz diferentes! El interruptor te permite encender o apagar el dispositivo y un holder de batería.
