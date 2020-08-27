@@ -19,6 +19,8 @@ Por amor a los ajolotes, conciencia de su preservación y orgulloso patrimonio m
 
 ## Licence
 
+![OpenSourceLicense](https://github.com/ElectronicCats/AjoloteBoard/raw/master/OpenSourceLicense.png)
+
 Hardware released under an CERN Open Hardware Licence v1.2. See the LICENSE_HARDWARE file for more information.
 
 Electronic Cats is a registered trademark, please do not use if you sell these PCBs.
